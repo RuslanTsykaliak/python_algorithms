@@ -29,11 +29,11 @@ You can run all examples directly in a GitHub Codespace without installing anyth
 #### Option 2: Run Locally
 1. Clone the repository to your local machine:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/RuslanTsykaliak/python_algorithms
    ```
 2. Navigate to the project directory:
    ```sh
-   cd programming-foundations-algorithms
+   cd python_algorithms
    ```
 3. Run any script using Python:
    ```sh
